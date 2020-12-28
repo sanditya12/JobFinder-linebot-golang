@@ -1,0 +1,17 @@
+# github.com/PuerkitoBio/goquery v1.6.0
+## explicit
+github.com/PuerkitoBio/goquery
+# github.com/andybalholm/cascadia v1.1.0
+github.com/andybalholm/cascadia
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+# github.com/line/line-bot-sdk-go v7.7.0+incompatible
+## explicit
+github.com/line/line-bot-sdk-go/linebot
+# golang.org/x/net v0.0.0-20200202094626-16171245cfb2
+golang.org/x/net/html
+golang.org/x/net/html/atom
